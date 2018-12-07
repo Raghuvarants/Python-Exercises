@@ -1,5 +1,4 @@
 #Exercise-2: Determine whether a number is even or odd
-#12-06-2018
 
 #Get the number from user
 Userdigit = int(input("Please enter your number"))
