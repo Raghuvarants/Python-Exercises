@@ -1,5 +1,4 @@
 # Exercise 3 - Get a number from list and add any number less than user entered input in another list
-# 12-06-2018
 
 #Create a list with ten numbers
 numberlist = [1 , 2, 3, 4, 5, 6, 7, 8, 9, 10]

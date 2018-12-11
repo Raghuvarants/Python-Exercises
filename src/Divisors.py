@@ -1,5 +1,4 @@
 # Exercise 4 - Get a number as input from user and 
-# 12-07-2018
 
 #Get user input
 Userdigit = int(input("Please enter your number: "))
