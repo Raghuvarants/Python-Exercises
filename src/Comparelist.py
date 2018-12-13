@@ -1,5 +1,4 @@
 #Exercise-5 - to compare 2 lists and identify common elements
-#12-07-2018
 
 #Import Random libraru
 #import random

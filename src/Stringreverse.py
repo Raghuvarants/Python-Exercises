@@ -1,6 +1,6 @@
 #Verify whether user entered input text is palindrome
 #This exercise uses string reverse
-#12-07-2018 
+
 
 #Get the user entered string digit
 wrd = input("Please say your digit: ")

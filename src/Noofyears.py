@@ -1,5 +1,4 @@
 #Exercise -1 : Character Input Solution
-#12-06-2018
 
 #Import Date time function
 import datetime
